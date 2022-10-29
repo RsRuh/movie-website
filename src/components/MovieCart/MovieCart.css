@@ -1,0 +1,17 @@
+.perCart{
+    height: 420px;
+    width: 340px !important;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px gray;
+}
+
+.perCart img{
+    height: 300px;
+    width: 100%;
+    border-radius: 10px 10px 0 0;
+    
+}
+.foodName{
+    background-color: red;
+    width: 200px;
+}
